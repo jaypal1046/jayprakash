@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const baseUrl = 'https://jayprakash-digital-services.jaypal1046.chatgpt.site';
+  const baseUrl = 'https://jayprakash.flutterjs.dev';
   const lastModified = '2026-10-12';
 
   return [

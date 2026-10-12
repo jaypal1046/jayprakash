@@ -1,5 +1,5 @@
 export default function robots() {
-  const baseUrl = 'https://jayprakash-digital-services.jaypal1046.chatgpt.site';
+  const baseUrl = 'https://jayprakash.flutterjs.dev';
 
   return {
     rules: {

@@ -17,7 +17,7 @@ const manrope = Manrope({
   display: 'swap',
 });
 
-const siteUrl = 'https://jayprakash-digital-services.jaypal1046.chatgpt.site';
+const siteUrl = 'https://jayprakash.flutterjs.dev';
 
 export const viewport = {
   themeColor: '#f4f1e9',
