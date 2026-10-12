@@ -1,0 +1,37 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="jp-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#142c26" />
+      <stop offset="50%" stop-color="#0f221d" />
+      <stop offset="100%" stop-color="#081411" />
+    </linearGradient>
+    <linearGradient id="jp-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b7f27d" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#15803d" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0.2" />
+    </linearGradient>
+    <linearGradient id="jp-glyph" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#edf6f2" />
+    </linearGradient>
+    <linearGradient id="jp-accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d4ff88" />
+      <stop offset="100%" stop-color="#8da435" />
+    </linearGradient>
+    <filter id="jp-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="1" stdDeviation="2.5" flood-color="#b7f27d" flood-opacity="0.6" />
+    </filter>
+  </defs>
+
+  <!-- Squircle Base Frame -->
+  <rect x="1" y="1" width="46" height="46" rx="13" fill="url(#jp-bg)" stroke="url(#jp-border)" stroke-width="1.5" />
+
+  <!-- Monogram Glyph: J -->
+  <path d="M18.5 13.5v16c0 3.6-2.9 6.5-6.5 6.5-2.2 0-4.1-1.1-5.3-2.8" stroke="url(#jp-glyph)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Monogram Glyph: P -->
+  <path d="M26.5 35.5V13.5h7.5c4.1 0 7.5 3.1 7.5 7s-3.4 7-7.5 7h-7.5" stroke="url(#jp-glyph)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Live Status & Precision Dot -->
+  <circle cx="39" cy="10" r="3.2" fill="url(#jp-accent)" filter="url(#jp-glow)" />
+</svg>
