@@ -59,7 +59,7 @@ export default function Header() {
           </button>
 
           <a
-            href="mailto:jayprakash.pal@flutterjs.dev?subject=Project%20Enquiry%20via%20Portfolio"
+            href="mailto:jayprakashpal@flutterjs.dev?subject=Project%20Enquiry%20via%20Portfolio"
             className="header-contact-btn"
           >
             Let&apos;s talk <span aria-hidden="true">↗</span>

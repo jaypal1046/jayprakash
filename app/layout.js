@@ -134,7 +134,7 @@ export default function RootLayout({ children }) {
         name: 'Jayprakash Pal — Web & Mobile Development',
         url: siteUrl,
         telephone: '+919082691348',
-        email: 'jayprakash.pal@flutterjs.dev',
+        email: 'jayprakashpal@flutterjs.dev',
         founder: { '@id': `${siteUrl}/#person` },
         areaServed: 'Worldwide',
         currenciesAccepted: 'INR, USD, EUR, GBP',

@@ -32,8 +32,8 @@ export default function Footer() {
           <a href="tel:+919082691348">
             Call +91 90826 91348
           </a>
-          <a href="mailto:jayprakash.pal@flutterjs.dev">
-            jayprakash.pal@flutterjs.dev
+          <a href="mailto:jayprakashpal@flutterjs.dev">
+            jayprakashpal@flutterjs.dev
           </a>
           <Link href="#top" aria-label="Scroll back to top of page">
             Back to Top ↑

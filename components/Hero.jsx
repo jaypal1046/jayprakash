@@ -23,7 +23,7 @@ export default function Hero() {
           <div className="hero-actions">
             <a
               className="button button-dark"
-              href="mailto:jayprakash.pal@flutterjs.dev?subject=Project%20Enquiry%20via%20Portfolio"
+              href="mailto:jayprakashpal@flutterjs.dev?subject=Project%20Enquiry%20via%20Portfolio"
             >
               Discuss a project <span aria-hidden="true">↗</span>
             </a>

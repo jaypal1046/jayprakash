@@ -161,7 +161,7 @@ export default function ProjectEstimator() {
 
               <div style={{ marginTop: '24px' }}>
                 <a
-                  href={`mailto:jayprakash.pal@flutterjs.dev?subject=${mailSubject}&body=${mailBody}`}
+                  href={`mailto:jayprakashpal@flutterjs.dev?subject=${mailSubject}&body=${mailBody}`}
                   className="button button-lime"
                   style={{ width: '100%' }}
                 >

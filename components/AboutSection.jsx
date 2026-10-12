@@ -52,7 +52,7 @@ export default function AboutSection() {
             <a href="https://www.linkedin.com/in/jayprakashpal1005" target="_blank" rel="noopener noreferrer">
               LinkedIn ↗
             </a>
-            <a href="mailto:jayprakash.pal@flutterjs.dev?subject=Project%20Enquiry">
+            <a href="mailto:jayprakashpal@flutterjs.dev?subject=Project%20Enquiry">
               Email Jayprakash ↗
             </a>
             <a href="tel:+919082691348">

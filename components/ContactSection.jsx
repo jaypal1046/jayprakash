@@ -5,7 +5,7 @@ import { useState } from 'react';
 export default function ContactSection() {
   const [toastMessage, setToastMessage] = useState(null);
 
-  const email = 'jayprakash.pal@flutterjs.dev';
+  const email = 'jayprakashpal@flutterjs.dev';
   const phone = '+919082691348';
 
   const copyToClipboard = (text, label) => {
